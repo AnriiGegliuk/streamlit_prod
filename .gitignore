@@ -19,3 +19,6 @@ rad.json
 .streamlit/
 #Test results file
 TestResults.xml
+
+*.csv
+*.png
